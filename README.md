@@ -1,2 +1,2 @@
 # edipy
-Python scripts for EDI
+Python scripts - this is a test
